@@ -118,11 +118,12 @@ span.a {
     margin: 2px 2px;
     cursor: pointer;
     line-height: 7px;
+    
   }
 
   .button2 {
     top: 10px;
-    left: 22%;
+    left: 24%;
     position: relative;
     border: none;
     color: white;
@@ -134,5 +135,6 @@ span.a {
     margin: 2px 2px;
     cursor: pointer;
     line-height: 7px;
+    
   }
   
