@@ -1,0 +1,138 @@
+h1{
+  position: relative;
+  text-align: center;
+  font-size: 35px;
+}
+
+h2{
+  position: relative;
+  top:15px;
+  left: 35%;
+  font-size: 15px;
+  font-family:'Courier New';
+
+}
+.h3{
+  display: inline;
+  font-size: 15px;
+  color: blue;
+  font-family:'Courier New'
+}
+
+label{
+
+  font-size: 20px;
+}
+
+button {
+  margin-top: 100px;
+  height: 50px;
+}
+
+.form1{
+  position: relative;
+  left: 23%;
+  width: 25%;
+  height: 40px;
+}
+
+.form2{
+  position: relative;
+  left: 26%;
+  width: 25%;
+  height: 40px;
+}
+
+.form3{
+  position: relative;
+  top: 10px;
+  left: 23%;
+  width: 53.8%;
+  height: 40px;
+}
+
+.form4{
+  position: relative;
+  top: 20px;
+  left: 23%;
+  width: 53.8%;
+  height: 40px;
+}
+
+.form5{
+  position: relative;
+  top: 30px;
+  left: 23%;
+  width: 25%;
+  height: 40px;
+}
+
+.form6{
+  position: relative;
+  top: 30px;
+  left: 26%;
+  width: 25%;
+  height: 40px;
+}
+
+.checkbox{
+  position: relative;
+  top: 60px;
+  left: 20%;
+}
+
+.agreement{
+  position: relative;
+  top: 60px;
+  left: 50%;
+}
+
+
+
+
+
+
+
+
+span.a {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 50px;
+    padding: 1px;
+    border: 1px solid blue;  
+    color: white;
+    background-color: #4169E1; 
+  }
+
+  .button1 {
+    top: 10px;
+    left: 22%;
+    position: relative;
+    border: none;
+    color: white;
+    padding: 30px 150px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #008CBA;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+    line-height: 7px;
+  }
+
+  .button2 {
+    top: 10px;
+    left: 22%;
+    position: relative;
+    border: none;
+    color: white;
+    padding: 30px 150px;
+    text-align: center;
+    text-decoration: none;
+    background-color:  #4CAF50;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+    line-height: 7px;
+  }
+  
